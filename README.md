@@ -59,13 +59,10 @@
 <hr>
 
 <h3><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> GitHub Stats</h3>
-<p><img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=angelgares&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
-    alt="adam-pw" 
-    bg_color=#808080/>
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=angelgares&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
-    alt="adam-pw" /></p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=angelgares&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact" alt="angelgares" style="vertical-align: middle; margin-right: 10px;"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=angelgares&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat" alt="angelgares" style="vertical-align: middle;"/>
+</div>
 <hr>
 
 <h3>⚡ Connect with me </h3>
